@@ -1,11 +1,11 @@
-NO textures/greystone.xpm
-SO textures/mossy.xpm
-WE textures/bluestone.xpm
-EA textures/purplestone.xpm
-NO textures/greystone.xpm
-SO textures/mossy.xpm
-WE textures/bluestone.xpm
-EA textures/purplestone.xpm
+NO Cub3D_Tester/textures/greystone.xpm
+SO Cub3D_Tester/textures/mossy.xpm
+WE Cub3D_Tester/textures/bluestone.xpm
+EA Cub3D_Tester/textures/purplestone.xpm
+NO Cub3D_Tester/textures/greystone.xpm
+SO Cub3D_Tester/textures/mossy.xpm
+WE Cub3D_Tester/textures/bluestone.xpm
+EA Cub3D_Tester/textures/purplestone.xpm
 F 220,100,0
 
 C 225,30,0

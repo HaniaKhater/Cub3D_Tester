@@ -1,6 +1,6 @@
-NO textures/greystone.xpm
-SO textures/mossy.xpm
-WE textures/bluestone.xpm
+NO Cub3D_Tester/textures/greystone.xpm
+SO Cub3D_Tester/textures/mossy.xpm
+WE Cub3D_Tester/textures/bluestone.xpm
 C 225,307,0
 
 

@@ -1,11 +1,11 @@
-WE textures/EG3.xpm
+WE Cub3D_Tester/textures/EG3.xpm
 
-NO		 textures/EG1.xpm
+NO		 Cub3D_Tester/textures/EG1.xpm
 
 
 
-SO textures/EG2.xpm
-EA textures/EG4.xpm
+SO Cub3D_Tester/textures/EG2.xpm
+EA Cub3D_Tester/textures/EG4.xpm
 
 F  218, 177, 130
 C 135,206,235
