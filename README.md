@@ -2,18 +2,14 @@
 
 This is a tester script for the Cub3D application. It is designed to run various tests and check for potential issues or errors in the program. The script executes different test cases and provides feedback on the results.
 
-## Prerequisites
-
-Before running the tester, ensure that the Cub3D application is built and available in the parent directory. The tester assumes the existence of the `cub3D` executable.
-
 ## Usage
 
 To run the tester, simply execute the following commands:
-`
-git clone https://github.com/HaniaKhater/cub3D_Tester/
-cd cub3D_Tester/
-./tester.sh
-`
+```
+git clone https://github.com/HaniaKhater/cub3D_Tester/ <br>
+cd cub3D_Tester/ <br>
+./tester.sh <br>
+```
 
 ## Test Cases
 
