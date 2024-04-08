@@ -6,8 +6,8 @@ This is a tester script for the Cub3D application. It is designed to run various
 
 To run the tester, simply execute the following commands:
 ```
-git clone https://github.com/HaniaKhater/cub3D_Tester/
-cd cub3D_Tester/
+git clone https://github.com/HaniaKhater/Cub3D_Tester/
+cd Cub3D_Tester/
 ./tester.sh
 ```
 
